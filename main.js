@@ -1,5 +1,7 @@
 
 
+// let myButton = document.getElementById("mybtn")
+
 function scrollDown() {
     window.scroll({
       top: 14110,
